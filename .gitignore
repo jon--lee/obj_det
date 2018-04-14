@@ -1,0 +1,13 @@
+__pycache__
+*.jpg
+*.png
+*.xml
+*.pyc
+*.swp
+*.tar.gz
+*.zip
+*.csv
+*.record
+*.tfrecord
+output
+data
